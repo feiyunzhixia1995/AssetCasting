@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VTMHotUpdateEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\Project\assestcasting\Intermediate\Build\Win64\assestcastingEditor\Development\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.h.obj"
+"H:\Project\assestcasting\Plugins\VTMHotUpdate\VTMHotUpdate\Intermediate\Build\Win64\UE4Editor\Development\VTMHotUpdateEditor\Module.VTMHotUpdateEditor.cpp.obj"
+"H:\Project\assestcasting\Plugins\VTMHotUpdate\VTMHotUpdate\Intermediate\Build\Win64\UE4Editor\Development\VTMHotUpdateEditor\Module.VTMHotUpdateEditor.gen.cpp.obj"
+"H:\Project\assestcasting\Plugins\VTMHotUpdate\VTMHotUpdate\Intermediate\Build\Win64\UE4Editor\Development\VTMHotUpdateEditor\Default.rc2.res"
+/OUT:"H:\Project\assestcasting\Plugins\VTMHotUpdate\VTMHotUpdate\Intermediate\Build\Win64\UE4Editor\Development\VTMHotUpdateEditor\UE4Editor-VTMHotUpdateEditor.lib"

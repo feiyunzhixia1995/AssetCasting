@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\project\\assestcasting\\plugins\\vtmhotupdate\\vtmhotupdate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vtmhotupdate\\singlefile\\versioncheck.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "h:\\project\\assestcasting\\plugins\\vtmhotupdate\\vtmhotupdate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vtmhotupdate\\definitions.vtmhotupdate.h",
+            "h:\\ue5.4.3\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "h:\\project\\assestcasting\\plugins\\vtmhotupdate\\vtmhotupdate\\source\\vtmhotupdate\\public\\versioncheck.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

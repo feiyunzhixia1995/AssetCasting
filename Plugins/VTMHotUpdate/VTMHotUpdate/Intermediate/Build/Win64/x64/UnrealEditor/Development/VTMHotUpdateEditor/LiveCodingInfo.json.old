@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VTMHotUpdateEditor.cpp.obj": [
+			"VTMHotUpdateEditor.init.gen.cpp.obj",
+			"VTMHotUpdateEditorFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

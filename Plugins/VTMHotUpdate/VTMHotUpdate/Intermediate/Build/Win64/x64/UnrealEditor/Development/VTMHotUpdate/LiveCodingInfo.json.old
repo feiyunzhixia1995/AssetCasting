@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VTMHotUpdate.1.cpp.obj": [
+			"AssestDiffDefine.gen.cpp.obj",
+			"CollectDataContainer.gen.cpp.obj",
+			"ModControlActor.gen.cpp.obj",
+			"ModReplicateManager.gen.cpp.obj",
+			"ModsController.gen.cpp.obj",
+			"ModsDownloader.gen.cpp.obj",
+			"ModsManager.gen.cpp.obj"
+		],
+		"Module.VTMHotUpdate.2.cpp.obj": [
+			"ModsReplicateComponent.gen.cpp.obj",
+			"PakSettings.gen.cpp.obj",
+			"SkeletalMeshPakSettings.gen.cpp.obj",
+			"StaticMeshPakSettings.gen.cpp.obj",
+			"VTMCreateModDefine.gen.cpp.obj",
+			"VTMHotUpdate.init.gen.cpp.obj",
+			"VTMHotUpdateBPLibrary.gen.cpp.obj",
+			"VTMHotupdateDefine.gen.cpp.obj",
+			"AsyncDownloadFile.cpp.obj",
+			"CollectDataContainer.cpp.obj",
+			"HttpMgrSubsystem.cpp.obj"
+		],
+		"Module.VTMHotUpdate.3.cpp.obj": [
+			"ModControlActor.cpp.obj",
+			"ModsController.cpp.obj",
+			"ModsDownloader.cpp.obj",
+			"ModsManager.cpp.obj",
+			"ModsReplicateComponent.cpp.obj",
+			"PakSettings.cpp.obj",
+			"SkeletalMeshPakSettings.cpp.obj",
+			"StaticMeshPakSettings.cpp.obj",
+			"SubTask.cpp.obj",
+			"VersionCheck.cpp.obj",
+			"VTMHotUpdate.cpp.obj",
+			"VTMHotUpdateBPLibrary.cpp.obj"
+		]
+	}
+}
