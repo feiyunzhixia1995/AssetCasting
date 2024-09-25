@@ -8,7 +8,7 @@ public class VTMHotUpdate : ModuleRules
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 
-         bUsePrecompiled = true;
+        bUsePrecompiled = true;
 
         PublicIncludePaths.AddRange(
 			new string[] {

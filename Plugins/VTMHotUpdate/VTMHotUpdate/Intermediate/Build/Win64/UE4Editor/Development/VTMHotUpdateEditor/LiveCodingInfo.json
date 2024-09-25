@@ -1,5 +1,15 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.VTMHotUpdateEditor.cpp.obj": [
+			"PakWidget.cpp.obj",
+			"StaticMeshPakWidget.cpp.obj",
+			"VTMHotUpdateEditor.cpp.obj",
+			"VTMHotUpdateEditorFunctionLibrary.cpp.obj"
+		],
+		"Module.VTMHotUpdateEditor.gen.cpp.obj": [
+			"VTMHotUpdateEditor.init.gen.cpp.obj",
+			"VTMHotUpdateEditorFunctionLibrary.gen.cpp.obj"
+		]
 	}
 }
